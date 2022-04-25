@@ -1,0 +1,6 @@
+I"k<pre><code class="language-mermaid">graph TD;
+    A--&gt;B;
+    C--&gt;D;
+    B--&gt;D;
+</code></pre>
+:ET
